@@ -1,5 +1,4 @@
 ## Hello there! 👋
-![visitors](https://komarev.com/ghpvc/?username=nakkht&color=grey&style=flat-square&label=Visitors)
 
 - :octocat: A software developer who loves to create things
 - 📝 [Personal blog](https://pgu.dev)
